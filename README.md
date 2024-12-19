@@ -13,11 +13,11 @@
 중앙대학교 예술공학부 24학번
 
 - **김민주**  
-  - [GitHub Profile](https://github.com/your-meaxzu)  
+  - [GitHub Profile](https://github.com/meaxzu)  
 - **정수영**  
-  - [GitHub Profile](https://github.com/your-sooowii)
+  - [GitHub Profile](https://github.com/sooowii)
 - **이도연**  
-  - [GitHub Profile](https://github.com/your-mydoyeon)
+  - [GitHub Profile](https://github.com/mydoyeon)
 
 --- 
 
