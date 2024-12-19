@@ -55,6 +55,14 @@
    git clone https://github.com/your-username/sleep-quality-enhancer.git
    cd sleep-quality-enhancer
 
+---
+
+## 📜 License
+
+This project is licensed under the **GPL License**.  
+See the [LICENSE](LICENSE) file for more details.
+
+
 
 **MEIODYNEST** helps you relax and sleep better by providing tailored music and messages.
 
