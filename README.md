@@ -3,6 +3,10 @@
 **Sleep Quality Enhancer** is a web application that offers personalized music and messages based on your day and mood to reduce stress and enhance sleep quality.  
 📦 Built with **Flask**, it provides an intuitive UI and a personalized user experience.
 
+<a href="https://github.com/meaxzu">
+  <img src="https://ibb.co/YyKqmWH">
+</a
+
 ---
 
 ## 📋 Features
