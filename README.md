@@ -17,7 +17,17 @@
 - **정수영**  
   - [GitHub Profile](https://github.com/your-sooowii)
 - **이도연**  
-  - [GitHub Profile](https://github.com/your-mydoyeon) 
+  - [GitHub Profile](https://github.com/your-mydoyeon)
+
+--- 
+
+## 📂 Google Drive Link
+
+You can access additional resources or related files through the following Google Drive link:
+
+[🔗 Access Google Drive Files](https://drive.google.com/drive/folders/10pdoAvqWsOOCZNC6okpci5QhT5Xyi1TV?usp=sharing)
+
+---
 
 ## 📋 Features
 
