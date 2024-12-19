@@ -4,7 +4,7 @@
 📦 Built with **Flask**, it provides an intuitive UI and a personalized user experience.
 
 <a href="https://github.com/meaxzu">
-  <img src="https://i.ibb.co/cCp70v4/picture.jpg">
+  <img src="https://i.ibb.co/ctkmWnc/image.png">
 </a
 
 ---
