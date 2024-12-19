@@ -4,10 +4,20 @@
 📦 Built with **Flask**, it provides an intuitive UI and a personalized user experience.
 
 <a href="https://github.com/meaxzu">
-  <img src="https://ibb.co/YyKqmWH">
+  <img src="https://i.ibb.co/cCp70v4/picture.jpg">
 </a
 
 ---
+
+## 👤 Created By
+중앙대학교 예술공학부 24학번
+
+- **김민주**  
+  - [GitHub Profile](https://github.com/your-meaxzu)  
+- **정수영**  
+  - [GitHub Profile](https://github.com/your-sooowii)
+- **이도연**  
+  - [GitHub Profile](https://github.com/your-mydoyeon) 
 
 ## 📋 Features
 
@@ -44,3 +54,9 @@
    ```bash
    git clone https://github.com/your-username/sleep-quality-enhancer.git
    cd sleep-quality-enhancer
+
+
+**MEIODYNEST** helps you relax and sleep better by providing tailored music and messages.
+
+<h2>Choose your mood, relax with tailored music, and enjoy a peaceful sleep. 🌙</h2>
+
